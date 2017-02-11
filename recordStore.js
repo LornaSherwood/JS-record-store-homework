@@ -48,4 +48,4 @@ RecordStore.prototype = {
 
 
 
-module.exports = RecordStore
+module.exports = RecordStore;
